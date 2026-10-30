@@ -1,6 +1,6 @@
 # Credit Card Default Prediction with PyCaret
 
-**Group 8:** Syed Fazal Mehdi (S011) · Manas Dabhade (S025) · Deven Bhole (S027)
+**Group 8:** Deven Bhole (S027), Syed Fazal Mehdi (S011), Manas Dabhade (S025) · 
 
 Dataset: [UCI – Default of Credit Card Clients](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) (24,000-row version shipped with PyCaret, included in `data/credit.csv`).
 
