@@ -1,0 +1,7 @@
+pycaret==3.3.2
+streamlit>=1.30
+# for the traditional notebook (already pulled in by pycaret)
+scikit-learn
+imbalanced-learn
+lightgbm
+jupyter
